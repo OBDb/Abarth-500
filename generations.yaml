@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation (312/223)"
+    start_year: 2008
+    end_year: 2015
+    description: "The first generation Abarth 500 was based on the Fiat 500 platform, featuring a turbocharged 1.4L engine. It was characterized by its aggressive styling, dual exhaust, and performance upgrades including sport-tuned suspension and larger brakes. Various special editions were introduced during this period, including the 595 and 695 models with increased power outputs."
+
+  - name: "Second Generation (312/223 Facelift)"
+    start_year: 2016
+    end_year: 2019
+    description: "The facelifted Abarth 500 maintained the same platform but received visual updates, technology improvements, and mechanical refinements. This generation featured upgraded infotainment systems, revised interior materials, and continued the performance tradition with the 595 and 695 variants offering different power levels and equipment packages."
+
+  - name: "Third Generation (Electric)"
+    start_year: 2020
+    end_year: 2023
+    description: "The third generation saw the continuation of the combustion engine models alongside the introduction of electric variants. The Abarth maintained its performance focus while adapting to emissions regulations. Limited editions and performance packages continued to be offered."
+
+  - name: "Fourth Generation (Abarth 500e)"
+    start_year: 2023
+    end_year: null
+    description: "The latest generation marks Abarth's transition to full electrification with the Abarth 500e. Based on the electric Fiat 500, the Abarth version maintains the brand's performance pedigree with instant electric torque. It features a sport-oriented suspension setup, distinctive styling, and a unique sound generator to replicate the traditional Abarth exhaust note in an electric form."
