@@ -7,12 +7,7 @@ generations:
     end_year: 2015
     description: "The first generation Abarth 500 was based on the Fiat 500 platform, featuring a turbocharged 1.4L engine. It was characterized by its aggressive styling, dual exhaust, and performance upgrades including sport-tuned suspension and larger brakes. Various special editions were introduced during this period, including the 595 and 695 models with increased power outputs."
 
-  - name: "First Generation (2016 Facelift)"
+  - name: "Second Generation (312/223 Facelift)"
     start_year: 2016
-    end_year: 2019
-    description: "In 2016, the Abarth 500 received a facelift, introducing several different variants of the 595, ranging from 140 PS to 180 PS. The lineup included the Basic 595, Turismo, Pista, Competizione (180 PS), and Essesse (180 PS). These variants maintained the same 312/223 platform with visual updates, technology improvements, and mechanical refinements."
-
-  - name: "First Generation (2020 Facelift)"
-    start_year: 2020
-    end_year: 2024
-    description: "From 2020 onwards, the Abarth 500 continued with new very limited special editions including the Scorpioneoro and Yamaha Monster Edition. The Scorpioneoro is distinguished by gold details on paintwork and wheels, with a scorpion pattern on the seats and gold stitching, featuring 165 PS. The Yamaha Monster Edition showcased the link between the Moto GP team and Abarth, painted black and blue with Monster energy drink logos. Production ended in August 2024."
+    end_year: null
+    description: "The facelifted Abarth 500 maintained the same platform but received visual updates, technology improvements, and mechanical refinements. This generation featured upgraded infotainment systems, revised interior materials, and continued the performance tradition with the 595 and 695 variants offering different power levels and equipment packages. In 2020, special limited editions were introduced including the Scorpioneoro and Yamaha Monster Edition. Production continues to present."
